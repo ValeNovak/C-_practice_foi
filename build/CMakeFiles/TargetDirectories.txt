@@ -1,0 +1,3 @@
+/workspaces/C-_practice_foi/build/CMakeFiles/example1.dir
+/workspaces/C-_practice_foi/build/CMakeFiles/edit_cache.dir
+/workspaces/C-_practice_foi/build/CMakeFiles/rebuild_cache.dir
